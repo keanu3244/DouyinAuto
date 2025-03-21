@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DouyinAutoPlay</string>
+    <string name="accessibility_service_description">用于自动化登录抖音并播放视频</string>
+</resources>
