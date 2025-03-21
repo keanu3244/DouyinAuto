@@ -1,0 +1,2 @@
+# DouyinAuto
+play script
